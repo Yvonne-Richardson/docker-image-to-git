@@ -16,7 +16,8 @@ Making Docker use this image to build new images is somewhat off-topic, but the 
 When the final edition was created, the docker image was uploaded to hub.docker.com.  It can be downloaded by using the following.
 
 ```docker pull liteinthecloud/docker-image-to-git```
-The name implies that you will also find its information in github, which is not true of the other inage.
+
+The name implies that you will also find its information in github, which is not true of the other image.
 
 ### Github Directories
 The local github repository differs from the local docker image store because you will actually ```mkdir``` a directory, ```cd``` to it, and add content and folders. It is differentiated from normal folders on your conputer because it was initialized as a local github repository by using the command ```git init```.
