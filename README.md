@@ -48,6 +48,8 @@ The fully qualified image name would resemble the following
 ### Github Directories
 
 The corresponding github repository can be retrieved with 
+```
 git clone https://github.com/Yvonne-Richardson/docker-image-to-git
+```
 
 The directry will contain all of the initial content for the site that will be built with that specific image.
